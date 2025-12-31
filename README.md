@@ -3,6 +3,7 @@
 This project converts markdown meeting notes into a well-formatted Google Doc using the Google Docs API.  
 It is designed to run in a Google Colab environment and demonstrates document creation, formatting, and API integration.
 
+Jupyter notebook link: [https://colab.research.google.com/drive/1Nxu9zhkZk3GXQmw0x6RFl2gE0z_po6H6?usp=sharing](https://colab.research.google.com/drive/1Nxu9zhkZk3GXQmw0x6RFl2gE0z_po6H6?usp=sharing)
 ---
 
 ## Features
